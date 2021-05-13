@@ -1,3 +1,3 @@
 # 2.çalışmamız
 
-Html Derslerinin son çalışmasıdır. gitignore kullanımı vardır.
+Html Derslerinin son çalışmasıdır. gitignore kullanımı vardır
